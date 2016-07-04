@@ -1,0 +1,160 @@
+/*font-family: 'Inconsolata', ;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Lato', sans-serif;
+*/
+#contenidos {
+	   width: 1000px;
+	   height:auto;
+	   margin: auto;
+	   position: relative;
+
+
+}
+
+
+#baner
+{
+	   width: 1000px;
+	   height:250px;
+	   border-radius: 25px;
+
+	  
+	}
+
+	body{
+	   
+		background-image: url(../imagenes/fondo.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+
+	
+	}
+
+h1{
+	font-family: 'Shadows Into Light', cursive;
+	color: blue;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+h3{
+	font-family: 'Shadows Into Light',;
+	color: blue;
+	font-size: 15px;
+	text-align:left;
+
+}
+
+
+h4{
+	font-family: 'Shadows Into Light',;
+	color: #00008B;
+	font-size: 20px;
+	text-align:center;
+
+}
+
+
+header{
+	width: 1050px;
+	height: 260px;
+	background-color: rgba(255;255;255;50);
+	border-radius: 3px;
+}
+
+nav{
+	width: 1050px;
+	height: 50px;
+	
+
+
+}
+
+
+ul{
+	margin: auto;
+	padding-top: 4px;
+
+}
+
+li{
+
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background-color: rgba(255;255;255;50);
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 20px Blue inset;
+}
+
+
+
+section {
+		width: 700px;
+		background: background-color: rgba(255;255;255;50);
+		height: 600px;
+		float:left;
+		margin-top: 15px;
+
+}
+
+aside {
+	width: 280px;
+		height: 600px;
+	float: left;
+ 	margin-left: 20px;	
+ 	background: 	#1E90FF;
+ 	border-radius: 15px;
+ 	margin-top: 15px;
+
+ 	
+}
+
+
+footer {
+
+	width: 1000px;
+	height:35px;
+	background: 	#1E90FF;
+	float: left;
+	margin-top: 5px;
+	border-radius: 15px;
+	margin-bottom: 15px;
+
+}
+
+p{
+
+font-family: 'Lato', sans-serif;
+font-size: 13px;
+line-height: 12px;
+padding: 8px;
+text-align: justify;
+color: #00008B;
+font-weight: bolder;
+	
+
+}
+
+/*CLASS*/
+.ancho_menu_home{ width: 1050px}
+.ancho_menu_paginas{width: 970px}
+
+.menu:link{ padding:15px; color: blue; text-decoration:none; }
+.menu:visited{padding:15px; color: blue; text-decoration:none; }
+.menu:hover{ padding:15px;color: blue; text-decoration:none;}
+.menu:active{padding:15px; color: blue; text-decoration:none; }
+
+
+li:hover{ 
+	background: red;
+	box-shadow: 0 0 20px Blue inset;
+
+}
+
+footer {
+
+	width: 1000px
+}
